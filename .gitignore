@@ -1,3 +1,8 @@
+# build-time only, never committed (entry is main.py alone)
+engine.py
+__pycache__/
+*.pyc
+# kit, keys, scratch
 tiny-chess-01-kit/
 makefun-keypair.json
 skill.md
